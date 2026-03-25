@@ -1,4 +1,4 @@
-## json2html
+# json2html
 
 Python module to convert `JSON` into a human readable `HTML Table` representation.
 
